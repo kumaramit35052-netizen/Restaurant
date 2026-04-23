@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="Food placeholder">
+  <rect width="320" height="320" fill="#eef2f4"/>
+  <circle cx="160" cy="160" r="92" fill="#ffffff" stroke="#cbd5dc" stroke-width="10"/>
+  <circle cx="160" cy="160" r="48" fill="#d83b2a"/>
+  <path d="M82 80h20v160H82zM218 80h12v160h-12zM238 80h12v160h-12z" fill="#66737c"/>
+</svg>

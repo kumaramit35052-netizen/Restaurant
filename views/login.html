@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin Login</title>
+  <link rel="icon" type="image/svg+xml" href="/favicon.svg">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <main class="shell narrow">
+    <form method="POST" action="/login" class="card form-card">
+      <div class="login-brand">
+        <img src="/restaurant-logo.svg" alt="Restaurant logo">
+      </div>
+      <h1>Admin Login</h1>
+      <p class="hint">Sign in to manage menu items, operations, inventory, and reporting.</p>
+      <label>Username <input name="username" required autofocus></label>
+      <label>Password <input name="password" type="password" required></label>
+      <button class="primary" type="submit">Login</button>
+      <a href="/">Back to home</a>
+    </form>
+  </main>
+</body>
+</html>

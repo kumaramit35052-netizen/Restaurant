@@ -1,0 +1,26 @@
+[
+  {
+    "id": "BK-1776260425961",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "9",
+    "date": "2026-04-15",
+    "slot": "17:00-19:00",
+    "note": "",
+    "status": "Ordered",
+    "createdAt": "2026-04-15T13:40:25.961Z",
+    "orderId": "1776260679095",
+    "orderedAt": "2026-04-15T13:44:39.098Z"
+  },
+  {
+    "id": "BK-1776258221216",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "2",
+    "date": "2026-04-15",
+    "slot": "11:00-13:00",
+    "note": "",
+    "status": "Booked",
+    "createdAt": "2026-04-15T13:03:41.216Z"
+  }
+]

@@ -1,0 +1,34 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="86" y1="64" x2="430" y2="448" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4DE"/>
+      <stop offset="0.45" stop-color="#F4C98C"/>
+      <stop offset="1" stop-color="#8C3B24"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="142" y1="118" x2="372" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFDF7"/>
+      <stop offset="0.45" stop-color="#FFE5B5"/>
+      <stop offset="1" stop-color="#C97939"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2EA36C"/>
+      <stop offset="1" stop-color="#0F5A41"/>
+    </linearGradient>
+    <filter id="shadow" x="44" y="44" width="424" height="424" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#3E190F" flood-opacity="0.28"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="76" y="76" width="360" height="360" rx="96" fill="url(#bg)"/>
+    <rect x="92" y="92" width="328" height="328" rx="84" stroke="rgba(255,255,255,0.55)" stroke-width="2"/>
+    <path d="M152 296C152 232.487 203.487 181 267 181H276C339.513 181 391 232.487 391 296V303H152V296Z" fill="url(#metal)"/>
+    <path d="M188 307C188 255.637 229.637 214 281 214C332.363 214 374 255.637 374 307V314H188V307Z" fill="#8E4227"/>
+    <path d="M168 307H393C387.019 341.39 357.12 367.5 321.5 367.5H239.5C203.88 367.5 173.981 341.39 168 307Z" fill="url(#metal)"/>
+    <circle cx="281" cy="190" r="16" fill="#FFF5E6"/>
+    <path d="M253 155C262.6 136.2 281.333 128.167 289.5 126.5C290.333 144.833 284.2 182.3 253 202.5C248.333 189.167 243.4 173.8 253 155Z" fill="url(#leaf)"/>
+    <path d="M300.5 151C317.7 154.2 329 167.333 332.5 173.5C318.5 181.833 287.5 191.8 275.5 163C281.667 158.833 290.2 147.8 300.5 151Z" fill="url(#leaf)"/>
+    <path d="M185 333H376" stroke="#8D3E26" stroke-width="14" stroke-linecap="round"/>
+    <path d="M177 351H384" stroke="#F8E4BF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M171 124C194.167 108.667 244.3 84.4 260.5 110C280.75 141.996 176.5 149.5 171 124Z" fill="#FFF9EF" fill-opacity="0.6"/>
+  </g>
+</svg>

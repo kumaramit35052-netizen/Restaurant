@@ -1,0 +1,92 @@
+{
+  "restaurantName": "Ferns Restaurant",
+  "address": "Main Market, Your City",
+  "phone": "+91 98765 43210",
+  "email": "billing@fernsrestaurant.com",
+  "gst": "",
+  "fssai": "Add your FSSAI number",
+  "tableCount": 15,
+  "defaultSeatsPerTable": 4,
+  "lateFeeAmount": 100,
+  "lateGraceMinutes": 20,
+  "tableConfigs": [
+    {
+      "table": 1,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 2,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 3,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 4,
+      "seats": 4,
+      "reservePrice": 498
+    },
+    {
+      "table": 5,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 6,
+      "seats": 4,
+      "reservePrice": 498
+    },
+    {
+      "table": 7,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 8,
+      "seats": 4,
+      "reservePrice": 499
+    },
+    {
+      "table": 9,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 10,
+      "seats": 4,
+      "reservePrice": 499
+    },
+    {
+      "table": 11,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 12,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 13,
+      "seats": 4,
+      "reservePrice": 500
+    },
+    {
+      "table": 14,
+      "seats": 4,
+      "reservePrice": 499
+    },
+    {
+      "table": 15,
+      "seats": 4,
+      "reservePrice": 500
+    }
+  ],
+  "taxName": "GST",
+  "taxRate": 5,
+  "serviceNote": "Thank you for dining with us. Please visit again."
+}

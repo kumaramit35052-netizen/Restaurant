@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1776260679095",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "9",
+    "bookingId": "BK-1776260425961",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10000,
+    "taxRate": 5,
+    "taxAmount": 500,
+    "bookingCharge": 0,
+    "total": 10500,
+    "status": "Served",
+    "createdAt": "2026-04-15T13:44:39.095Z",
+    "updatedAt": "2026-04-15T13:45:10.675Z"
+  },
+  {
+    "id": "1776159348581",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "14",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      },
+      {
+        "name": "Piza",
+        "price": 620,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10620,
+    "taxRate": 5,
+    "taxAmount": 531,
+    "total": 11151,
+    "status": "Served",
+    "createdAt": "2026-04-14T09:35:48.581Z",
+    "updatedAt": "2026-04-14T09:40:59.021Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-15T13:04:41.130Z"
+  },
+  {
+    "id": "1776152793204",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "5",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      },
+      {
+        "name": "Piza",
+        "price": 620,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10620,
+    "taxRate": 5,
+    "taxAmount": 531,
+    "total": 11151,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:46:33.204Z",
+    "updatedAt": "2026-04-14T09:40:59.857Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-15T13:04:38.940Z"
+  },
+  {
+    "id": "1776152517345",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "52",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Piza",
+        "price": 620,
+        "qty": 1
+      },
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10620,
+    "taxRate": 5,
+    "taxAmount": 531,
+    "total": 11151,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:41:57.345Z",
+    "updatedAt": "2026-04-14T09:41:01.941Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-15T13:04:35.111Z"
+  },
+  {
+    "id": "1776152367365",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "15",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      },
+      {
+        "name": "Piza",
+        "price": 620,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10620,
+    "taxRate": 5,
+    "taxAmount": 531,
+    "total": 11151,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:39:27.365Z",
+    "updatedAt": "2026-04-14T09:41:02.841Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-15T13:04:36.972Z"
+  },
+  {
+    "id": "1776152089087",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "09",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      }
+    ],
+    "subtotal": 10000,
+    "taxRate": 5,
+    "taxAmount": 500,
+    "total": 10500,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:34:49.087Z",
+    "updatedAt": "2026-04-14T09:41:03.812Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-15T13:04:42.559Z"
+  },
+  {
+    "id": "1776151328701",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "10",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      }
+    ],
+    "total": 10000,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:22:08.701Z",
+    "updatedAt": "2026-04-14T07:22:27.783Z",
+    "billPdf": "/bills/bill-1776151328701.pdf",
+    "billSentAt": "2026-04-14T07:22:40.607Z",
+    "billSendNote": "PDF generated locally. Connect SMS or WhatsApp API to send it to the customer phone.",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-14T07:22:44.072Z"
+  },
+  {
+    "id": "1776151038637",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "06",
+    "customerNote": "",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 1
+      }
+    ],
+    "total": 10000,
+    "status": "Served",
+    "createdAt": "2026-04-14T07:17:18.650Z",
+    "updatedAt": "2026-04-14T07:18:22.276Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-14T07:18:28.198Z"
+  },
+  {
+    "id": "1776149279847",
+    "customerPhone": "7503413728",
+    "customerName": "Divamani",
+    "table": "09",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 80
+      }
+    ],
+    "total": 800000,
+    "status": "Served",
+    "createdAt": "2026-04-14T06:47:59.847Z",
+    "updatedAt": "2026-04-14T07:18:24.169Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-14T07:18:29.967Z"
+  },
+  {
+    "id": "1776148863770",
+    "customerPhone": "9142438983",
+    "table": "03",
+    "items": [
+      {
+        "name": "Divamani",
+        "price": 10000,
+        "qty": 70
+      }
+    ],
+    "total": 700000,
+    "status": "Served",
+    "createdAt": "2026-04-14T06:41:03.770Z",
+    "updatedAt": "2026-04-14T06:42:03.509Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-14T06:58:25.842Z"
+  },
+  {
+    "id": "1776147424038",
+    "table": "03",
+    "items": [
+      {
+        "name": "Burger ",
+        "price": 500,
+        "qty": 3
+      },
+      {
+        "name": "Piza",
+        "price": 100,
+        "qty": 2
+      }
+    ],
+    "total": 1700,
+    "status": "Served",
+    "createdAt": "2026-04-14T06:17:04.038Z",
+    "updatedAt": "2026-04-14T06:36:08.900Z",
+    "billStatus": "Paid",
+    "paidAt": "2026-04-14T06:58:28.405Z"
+  }
+]
